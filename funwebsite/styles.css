@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+}
+/* * {
+    color: white;
+} */
+.title {
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 50px;
+}
+img {
+    height: 200px;
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.titles {
+    color: white;
+    font-size: x-large;
+    padding-left: 50px;
+}
